@@ -36,7 +36,7 @@ function setup() {
     }
 }
 function draw() {
-  background("black");
+  background("lightblue");
   textSize(20)
   text("Score: "+score,10,40);
   text(" 500 ", 20, 550);
